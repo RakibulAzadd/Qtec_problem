@@ -8,5 +8,5 @@ In this problem  given an array and a target number . If target numder found in 
 
 #Problem 1 : Create a Simple Note-taking App
 
-1. Ans : 
+1. Ans : I apologize for this task because of I have zero knowledge of laravel . I am a passionate Competitive Programmer and also i am a quick learner .  I want to learn PHP, Laravel of this internship . 
 
