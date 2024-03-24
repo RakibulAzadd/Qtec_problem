@@ -58,7 +58,12 @@ int32_t main()
         solve();
     }
 }
+// testcase =1
 
+/* array size = 7
+array = 1 7 3 5 6 9 15
+ target= 5
+ output = 2 */
 
 // Test Case = 2
 
