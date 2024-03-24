@@ -8,5 +8,5 @@ In this problem  given an array and a target number . If target numder found in 
 
 #Problem 1 : Create a Simple Note-taking App
 
-1.Ans : 
+1. Ans : 
 
